@@ -14,4 +14,5 @@ Red neuronal densa que predice la cantidad semanal de casos de dengue en Bucaram
 **Docente:** Carlos Carrascal Avendaño
 
 ## Enlaces
-- Notebook / Google Colab: [https://colab.research.google.com/drive/1VROBiBZWkm44XIOpk5cOJXSMLlaN_rLt?usp=sharing
+- Notebook / Google Colab: [https://colab.research.google.com/drive/1VROBiBZWkm44XIOpk5cOJXSMLlaN_rLt?usp=sharing](https://colab.research.google.com/drive/1VROBiBZWkm44XIOpk5cOJXSMLlaN_rLt?usp=sharing)  
+- Video de la presentación: [https://youtu.be/69JFvx16iwM](https://youtu.be/69JFvx16iwM)
